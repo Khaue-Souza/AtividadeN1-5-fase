@@ -4,7 +4,7 @@
 
 A calculadora realiza **soma**, **subtração**, **multiplicação** e **divisão**.
 
-
+# TUTORIAL DE COMO USAR O GIT HUB
 
 1 - Como inicializar repositórios!
 Primeiramente logar no seu git 
